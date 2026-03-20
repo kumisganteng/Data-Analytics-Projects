@@ -1,4 +1,4 @@
-# Customer Retention Analysis — Churn Prediction
+# Customer Retention Analysis (Churn Prediction)
 
 ## Deskripsi
 Project ini adalah analisis churn prediction pada dataset pelanggan 
@@ -18,11 +18,11 @@ Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Total data: 7.043 baris, 21 kolom
 
 ## Tahapan Project
-1. **Data Ingestion** — pemuatan data dan inspeksi awal
-2. **Data Cleaning** — handling missing values, standarisasi kategorikal, validasi tipe data
-3. **Exploratory Data Analysis (EDA)** — univariate, bivariate, multivariate analysis, class imbalance check, outlier analysis
-4. **Feature Engineering & Preprocessing** — categorical encoding, scaling, SMOTE
-5. **Modeling** — Logistic Regression, Random Forest, XGBoost
+1. **Data Ingestion**: pemuatan data dan inspeksi awal
+2. **Data Cleaning**: handling missing values, standarisasi kategorikal, validasi tipe data
+3. **Exploratory Data Analysis (EDA)**: univariate, bivariate, multivariate analysis, class imbalance check, outlier analysis
+4. **Feature Engineering & Preprocessing**: categorical encoding, scaling, SMOTE
+5. **Modeling**: Logistic Regression, Random Forest, XGBoost
 
 ## Hasil
 | Model | Accuracy | Recall | ROC-AUC |
